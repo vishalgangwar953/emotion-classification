@@ -220,4 +220,5 @@ This app is deployable as-is on [Streamlit Community Cloud](https://streamlit.io
 
 ## License
 
-_Add a license (e.g. MIT) here if you want the project to be reusable by others._
+This project is licensed under the MIT License.  
+Copyright (c) 2026 Vishal Gangwar
