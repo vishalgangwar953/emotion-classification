@@ -6,7 +6,7 @@ basic emotions** — sadness, joy, love, anger, fear, and surprise. A
 [`dair-ai/emotion`](https://huggingface.co/datasets/dair-ai/emotion) dataset
 and served through an interactive Streamlit app.
 
-**🔗 Live demo:** _add your deployed URL here after deploying_
+**🔗 Live demo:** https://emotion-classification-qmdtqi4ujturfaxj5sjsog.streamlit.app/
 
 <!-- Add a screenshot or GIF of the Predict tab here, e.g.: -->
 <!-- ![App screenshot](assets/screenshot.png) -->
